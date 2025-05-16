@@ -1,5 +1,5 @@
 ﻿1CV8LOG(ver 2.0)
-4665db7a-90a0-411c-9554-da870aad8d53
+49203ec6-7a75-4120-bf8f-0c4c4870122e
 
 {1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
 {2,"DESKTOP-M8RD5DN",1},
@@ -28,4 +28,8 @@
 {5,06839a88-7723-4540-be1d-a8f99cb23eeb,"Документ.НачислениеЗарплаты",2},
 {4,"_$Data$_.Post",17},
 {4,"_$InfoBase$_.DBConfigUpdateError",18},
-{4,"_$PerformError$_",19}
+{4,"_$PerformError$_",19},
+{4,"_$InfoBase$_.RestoreStart",20},
+{5,1bde315a-13e3-4c5b-ab01-a18cac0e3893,"Документ.НачислениеЗарплаты",3},
+{5,b408a259-5171-47ea-8564-48e9dde8a3b9,"Документ.НачислениеЗарплаты",4},
+{4,"_$Transaction$_.Rollback",21}
